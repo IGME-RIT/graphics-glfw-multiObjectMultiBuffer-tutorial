@@ -14,4 +14,4 @@ tags:
 extra_resources:
   -
 connections:
-  - "multi-object-single-buffer-tutorial"
+  - "graphics-glfw-multiObjectSingleBuffer-tutorial"
